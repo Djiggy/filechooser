@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caixiangsap/filechooser.git"
+    "url": "git+https://github.com/Djiggy/filechooser.git"
   },
   "keywords": [
     "cordova",
@@ -24,7 +24,7 @@
   "author": "CCWC-IT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caixiangsap/filechooser/issues"
+    "url": "https://github.com/Djiggy/filechooser/issues"
   },
-  "homepage": "https://github.com/caixiangsap/filechooser#readme"
+  "homepage": "https://github.com/Djiggy/filechooser#readme"
 }
